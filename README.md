@@ -49,13 +49,13 @@ Segments analyzed by:
 ## 📈 Results & Visualizations
 
 ### Cluster Distribution
-![Clusters](images/clusters.png)
+![Clusters](Images/clusters.png)
 
 ### Elbow Method
-![Elbow](images/elbow.png)
+![Elbow](Images/optimal_k.png)
 
 ### Age by Cluster
-![Age](images/age_by_cluster.png)
+![Age](Images/age_distribution_per_cluster.png)
 
 ---
 
