@@ -1,4 +1,4 @@
-# <Mall Customers Segmentation>
+# Mall Customers Segmentation
 
 ## 📌 Overview
 This project applies clustering analysis to segment customers based on purchasing behavior and income level. The goal is to identify distinct customer groups and provide actionable marketing insights.
@@ -106,3 +106,15 @@ Segments analyzed by:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## How to Run
+  1. Clone this repo
+     ```bash
+     - git clone https://github.com/Rizki-Damopolii-DA/customer-segmentation-kmeans.git
+     - cd customer-segmentation-kmeans
+  2. Install Dependencies
+     ```bash
+     - pip install -r requirements.txt
+  3. Launch Jupyter Notebook
+  4. Open the Notebook -> Customers Analysis.ipynb
+  5. Run all cells to reproduce the exploratory analysis, visualizations, and clustering model.
